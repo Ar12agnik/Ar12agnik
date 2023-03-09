@@ -6,7 +6,7 @@ high=len(x)-1
 while low<=high:
     
     mid=((low+high)//2)
-    print (low,high,mid)
+    
     if x[mid]==element:
         
         break
