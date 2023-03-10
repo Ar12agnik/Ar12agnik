@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ar12agnik
-- 👀 I’m interested in python
+- 👀 I’m interested in python,c and sql
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
 - 📫 How to reach me mail ar12agnik@gmail.com
 
 <!---
