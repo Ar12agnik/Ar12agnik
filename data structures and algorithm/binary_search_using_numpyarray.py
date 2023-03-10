@@ -1,5 +1,6 @@
 import numpy as np
 x=[2,4,6,8,18,22,23,29,37,40]
+x=np.array(x)
 element=int(input("enter a number: "))
 low=0
 high=len(x)-1
