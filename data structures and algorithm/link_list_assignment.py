@@ -38,20 +38,16 @@ class LinkedList:
         newnode=List(data)
         newnode.adress=old_head
         self.head=newnode
-    def insert_at_index(self,index,data):
-        if index==0:
-            self.insert_at_front(data)
-        else:
-            itr=0
-            temp=self.head
-            while temp is not None:
-                itr+=1
-                temp=temp.adress
-                if (itr==index-1):
-                    old_adress=temp.adress
-                    newnode=List(data)
-                    temp.adress=newnode
-                    newnode.adress=old_adress
+    def insert_at_index(self,position,n):
+        newNode=List(n)
+        position-=2
+        temp=self.head
+        while position>0:
+            temp=temp.adress
+            position-=1
+        newNode.adress=temp.adress
+        temp.adress=newNode
+        
     def insert_at_last(self,data):
         self.create(data)
 
@@ -65,7 +61,7 @@ for j in range(i):
 s.max_element_found()
 s.count_element()
 s.insert_at_front(int(input("enter the element to be inserted at first: ")))
-s.insert_at_index(int(input("enter the index position")),int(input("enter the data")))
+s.insert_at_index(int(input("enter the  position")),int(input("enter the data")))
 s.insert_at_last(12)
 print("The elements of the linked list are:-")
 s.printList()
