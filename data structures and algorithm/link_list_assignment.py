@@ -50,6 +50,27 @@ class LinkedList:
         
     def insert_at_last(self,data):
         self.create(data)
+    def delete_from_front(self):
+        temp=self.head
+        newnode=temp.adress
+        self.head=newnode
+    def delete_from_end(self):
+        temp=self.head
+        while temp is not self.last:
+            prev=temp
+            temp=temp.adress
+        prev.adress=None
+        print(prev.data)
+        self.last=prev
+    def del_at_given_node(self,pos):
+        temp=self.head
+        pos-=1
+        while pos>0:
+            prev=temp
+            temp=temp.adress
+            pos-=1
+        prev.adress=temp.adress
+
 
                     
                 
@@ -60,8 +81,18 @@ for j in range(i):
     s.create(int(input("enter the element: ")))
 s.max_element_found()
 s.count_element()
+s.printList()
 s.insert_at_front(int(input("enter the element to be inserted at first: ")))
+s.printList()
 s.insert_at_index(int(input("enter the  position")),int(input("enter the data")))
+s.printList()
 s.insert_at_last(12)
+s.printList()
+s.delete_from_front()
 print("The elements of the linked list are:-")
+s.printList()
+s.delete_from_end()
+print("after deleting from end")
+s.printList()
+s.del_at_given_node(int(input("enter position to be deleted: ")))
 s.printList()
