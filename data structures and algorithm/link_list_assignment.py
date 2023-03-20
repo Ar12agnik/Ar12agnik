@@ -60,7 +60,6 @@ class LinkedList:
             prev=temp
             temp=temp.adress
         prev.adress=None
-        print(prev.data)
         self.last=prev
     def del_at_given_node(self,pos):
         temp=self.head
