@@ -65,10 +65,7 @@ class LinkedList:
                 temp=temp.adress
         if f==False:
             return "Not Found"
-    def reverse_linked_list(self):
-        temp=self.head
-        while temp is not None:
-            prev=temp
+
     def get_len(self):
         temp=self.head
         c=0
@@ -77,18 +74,18 @@ class LinkedList:
             c+=1
         return c
     def reverse(self):
-        temp=self.head
-        legnth_of_list=self.get_len()
-        c=0
-        while c<legnth_of_list:
-            prev=temp
-            temp=temp.adress
-            temp.adress=prev
-            c+=1
-        self.head.adress=None
-        x=self.head
-        self.head=self.last
-        self.last=self.head
+        prev = None
+        curr = self.head
+
+        while curr is not None:
+            next_node = curr.adress
+            curr.adress = prev
+            prev = curr
+            curr = next_node
+            
+
+        head = prev
+        return head
 l=LinkedList()
 l.create(10)
 l.create(20)
