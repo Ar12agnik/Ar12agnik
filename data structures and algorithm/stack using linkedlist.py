@@ -4,27 +4,21 @@ class node:
         self.adress=None
 class Stack:
     def __init__(self):
-        self.head=None
         self.top=None
     def push(self,Data):
         newNode=node(Data)
-        if self.head is None:
-            self.head=newNode
+        if self.top is None:
             self.top=newNode
         else:
-            self.top.adess=newNode
+            newNode.adress=self.top
             self.top=newNode
-        print("element inserted!")
+        print(Data,"Inserted!")
     def pop(self):
-        if self.head is None:
+        if self.top==None:
             print("UNDERFLOW!!")
-        temp=self.head
-        while temp is not self.top:
-            prev=temp
-            temp=temp.adress
-        print(f"{temp} deleted!")
-        prev.adress=None
-        self.top=prev
+        else:
+            print(self.top.data,"Deleted")
+            self.top=self.top.adress
 stack=Stack()
 while True:
     choice=int(input("1)push\n2)pop\n3)exit\nenter your choice: "))
