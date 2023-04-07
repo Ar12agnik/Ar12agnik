@@ -1,33 +1,39 @@
 class node:
     def __init__(self,data):
-        self.left=None
-        self.right=None
-        self.data=data
+        self.lson=None
+        self.rson=None
+        self.data=data 
 class Tree:
     def __init__(self):
         self.root=None
-    def create(self,data):
+    def insert(self,data):
         newNode=node(data)
-        current_root=self.root
-        if current_root is None:
+        if self.root is None:
             self.root=newNode
         else:
-            while True:
-                if data>current_root.data:
-                    if current_root.right is None:
-                        current_root.right=newNode
-                        break
-                    else:
-                        current_root=current_root.right
+            temp=self.root
+            while temp is not None:
+                prev=temp
+                if data>temp.data:
+                    temp=temp.rson
                 else:
-                    if current_root.left is None:
-                        current_root.left=newNode
-                        break
-                    else:
-                        current_root=current_root.left
+                    temp=temp.lson
+            if data>prev.data:
+                prev.rson=newNode
+            else:
+                prev.lson=newNode
+    def inorder(self,root):
+        if root.lson is not None:
+            self.inorder(root.lson)
+        print(root.data)
+        if root.rson is not None:
+            self.inorder(root.rson)
 t=Tree()
-t.create(12)
-t.create(16)
-t.create(13)
-t.create(1)
-t.inorder_traversal(t)
+t.insert(59)
+t.insert(21)
+t.insert(31)
+t.insert(69)
+t.insert(6)
+t.insert(0)
+t.inorder(t.root)
+            
