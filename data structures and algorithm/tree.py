@@ -28,6 +28,18 @@ class Tree:
         print(root.data)
         if root.rson is not None:
             self.inorder(root.rson)
+    def preorder(self,root):
+        print(root.data)
+        if root.lson is not None:
+            self.inorder(root.lson)
+        if root.rson is not None:
+            self.inorder(root.rson)
+    def postorder(self,root):
+        if root.lson is not None:
+            self.postorder(root.lson)
+        if root.rson is not None:
+            self.postorder(root.rson)
+        print(root.data)       
 t=Tree()
 t.insert(59)
 t.insert(21)
@@ -35,5 +47,6 @@ t.insert(31)
 t.insert(69)
 t.insert(6)
 t.insert(0)
-t.inorder(t.root)
-            
+t.inorder(t.root)    
+t.preorder(t.root)
+t.postorder(t.root)
