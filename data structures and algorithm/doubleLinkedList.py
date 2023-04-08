@@ -58,7 +58,7 @@ class DLinkedList:
         while temp is not None:
             print(temp.data)
             temp=temp.next
-        print("---------------------------------------------------------------------------------------------------------------------------------")
+        print("using last")
         while temp2 is not None:
             print(temp2.data)
             temp2=temp2.prev
@@ -91,6 +91,3 @@ print("after deleting from random position: ")
 c.delete_at_pos(3)
 c.printL()
 print("\nThe End")
-    
-
-
