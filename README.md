@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agnik Roy</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ar12agnik&label=Profile%20views&color=0e75b6&style=flat" alt="ar12agnik" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/agnikroy12" target="blank"><img src="https://img.shields.io/twitter/follow/agnikroy12?logo=twitter&style=for-the-badge" alt="agnikroy12" /></a> </p>
 
-- 🔭 I’m currently working on **HTML**
+- 🔭 I’m currently working on [HTML](https://github.com/Ar12agnik/html)
 
 - 🌱 I’m currently learning **DSA in python**
 
-- 👯 I’m looking to collaborate on **PYTHON**
+- 👯 I’m looking to collaborate on [PYTHON](https://github.com/Ar12agnik/The-Hangman)
 
 - 🤝 I’m looking for help with **Css**
 
