@@ -1,3 +1,4 @@
+<img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310" alt="hellogif">
 <h1 align="center">Hi 👋, I'm Agnik Roy</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -32,6 +33,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar12agnik&show_icons=true&locale=en&layout=compact" alt="ar12agnik" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ar12agnik&show_icons=true&locale=en" alt="ar12agnik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ar12agnik&" alt="ar12agnik" /></p>
+<img align="center" src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="400">
