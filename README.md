@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=ar12agnik&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 I’m currently working on Data Science<br>👯 I’m looking to collaborate on Python<br>🤝 I’m looking for help with everything😂<br>🌱 I’m currently learning NumPy<br>💬 Ask me about Python<br>⚡ Fun fact Nothing
 
@@ -22,6 +23,6 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ar12agnik&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
