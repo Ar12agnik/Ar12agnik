@@ -89,7 +89,7 @@
 <!-- Activity Graph -->
 <h3 align="center">GitHub Activity:</h3>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ar12agnik&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ar12agnik&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
