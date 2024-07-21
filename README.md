@@ -67,6 +67,7 @@
 </p>
 
 <!-- GitHub Stats -->
+<h3 align="center">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ar12agnik&show_icons=true&locale=en&layout=compact" alt="ar12agnik" />
 </p>
@@ -77,6 +78,18 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ar12agnik&" alt="ar12agnik" />
+</p>
+
+<!-- Dynamic Quotes -->
+<h3 align="center">Quote of the Day:</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
+</p>
+
+<!-- Activity Graph -->
+<h3 align="center">GitHub Activity:</h3>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ar12agnik&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
