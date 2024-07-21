@@ -89,7 +89,7 @@
 <!-- Activity Graph -->
 <h3 align="center">GitHub Activity:</h3>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ar12agnik&bg_color=000000&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
