@@ -1,34 +1,28 @@
-<p><img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310" alt="hellogif"></p>
-<br>
+<!-- Header -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="300" alt="Hello Gif"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Agnik Roy</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ar12agnik&label=Profile%20views&color=0e75b6&style=flat" alt="ar12agnik" /> 
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ar12agnik&label=Profile%20views&color=0e75b6&style=flat" alt="ar12agnik" />
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ar12agnik&theme=onedark" alt="ar12agnik" />
-  </a> 
-</p>
-
-<p align="left"> 
-  <a href="https://twitter.com/agnikroy12" target="blank">
-    <img src="https://img.shields.io/twitter/follow/agnikroy12?logo=twitter&style=for-the-badge" alt="agnikroy12" />
-  </a> 
-</p>
-
+<!-- Bio -->
 - 🔭 I’m currently working on [HTML](https://github.com/Ar12agnik/html)
 - 🌱 I’m currently learning **DSA in Python**
-- 👯 I’m looking to collaborate on [PYTHON](https://github.com/Ar12agnik/The-Hangman)
+- 👯 I’m looking to collaborate on [Python Projects](https://github.com/Ar12agnik/The-Hangman)
 - 🤝 I’m looking for help with **CSS**
 - 💬 Ask me about **Python**
 - 📫 How to reach me **ar12agnik@gmail.com**
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I think I am funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Connect with Me -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://twitter.com/agnikroy12" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agnikroy12" height="30" width="40" />
   </a>
@@ -40,8 +34,9 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<!-- Languages and Tools -->
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
@@ -66,27 +61,24 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar12agnik&show_icons=true&locale=en&layout=compact" alt="ar12agnik" />
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ar12agnik&show_icons=true&locale=en&layout=compact" alt="ar12agnik" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ar12agnik&show_icons=true&locale=en" alt="ar12agnik" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ar12agnik&show_icons=true&locale=en" alt="ar12agnik" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ar12agnik&" alt="ar12agnik" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ar12agnik&" alt="ar12agnik" />
 </p>
 
-<img align="center" src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="400">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="400" alt="Coding Gif" />
+</p>
