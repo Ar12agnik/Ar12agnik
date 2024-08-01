@@ -87,8 +87,7 @@
 </p>
 
 <!-- Activity Graph -->
-[![aGNIK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AR12AGNIK)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ar12agnik&bg_color=121212&color=fffffd&line=ff6f61&point=ffa726&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="400" alt="Coding Gif" />
 </p>
