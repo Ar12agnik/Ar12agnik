@@ -13,7 +13,7 @@
 
 <!-- Bio -->
 - 🔭 I’m currently working on [HTML](https://github.com/Ar12agnik/html)
-- 🌱 I’m currently learning **DSA in Python**
+- 🌱 I’m currently learning **DJANGO**
 - 👯 I’m looking to collaborate on [Python Projects](https://github.com/Ar12agnik/The-Hangman)
 - 🤝 I’m looking for help with **CSS**
 - 💬 Ask me about **Python**
