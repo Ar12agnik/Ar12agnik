@@ -42,3 +42,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              - name: Metrics embed
+                uses: lowlighter/metrics@v3.34
+            
