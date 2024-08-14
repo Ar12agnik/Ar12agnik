@@ -26,8 +26,8 @@ jobs:
 
       - name: Slow down the snake animation
         run: |
-          sed -i 's/dur="10s"/dur="60s"/g' dist/github-contribution-grid-snake.svg
-          sed -i 's/dur="10s"/dur="60s"/g' dist/github-contribution-grid-snake-dark.svg
+          sed -i 's/dur="10s"/dur="120s"/g' dist/github-contribution-grid-snake.svg
+          sed -i 's/dur="10s"/dur="120s"/g' dist/github-contribution-grid-snake-dark.svg
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
