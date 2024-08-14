@@ -92,7 +92,6 @@
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Ar12agnik/Ar12agnik/output/github-contribution-grid-snake.svg)
 
-![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/Ar12agnik/Ar12agnik/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="400" alt="Coding Gif" />
