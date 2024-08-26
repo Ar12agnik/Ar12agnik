@@ -37,5 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ar12agnik&show_icons=true&locale=en" alt="ar12agnik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ar12agnik&theme=dark" alt="ar12agnik" /></p>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ar12agnik&bg_color=121212&color=fffffd&line=ff6f61&point=ffa726&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-# GitHub Contribution Snake
+https://raw.githubusercontent.com/Ar12agnik/Ar12agnik/output/github-contribution-grid-snake-dark.svg?palette=github-dark
