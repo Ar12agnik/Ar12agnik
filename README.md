@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **AI/ML**
 
-- 🌱 I’m currently learning **Djngo**
+- 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **Djngo**
+- 👯 I’m looking to collaborate on **Django**
 
 - 🤝 I’m looking for help with **AI/Ml**
 
