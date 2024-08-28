@@ -5,7 +5,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ar12agnik&no-bg=true&no-frame=true&column=3&row=2&margin-w=15&margin-h=15&rank=-C,-B,-AAA,-S,-SS,-SSS&theme=darkhub" alt="ar12agnik" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=-Stars,-Followers,-Issues,-Reviews,-PullRequests"> 
   </a> 
 </p>
 
