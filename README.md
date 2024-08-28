@@ -5,9 +5,10 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=-Stars,-Followers,-Issues,-Reviews,-PullRequests"> 
+    <img src="https://github-profile-trophy.vercel.app/?username=ar12agnik&title=-Stars,-Followers,-Issues,-Reviews,-PullRequests&theme=gruvbox"> 
   </a> 
 </p>
+
 
 - 🔭 I’m currently working on **AI/ML**
 
