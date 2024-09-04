@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **ar12agnik@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I think I am Funny  **
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
