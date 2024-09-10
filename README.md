@@ -128,5 +128,5 @@
 ---
 
 ### 📈 GitHub Activity Graph:
-[![Agnik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ar12agnik&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Agnik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AR12AGNIK)](https://github.com/ar12agnik)
 
