@@ -33,19 +33,45 @@
   <img src="https://raw.githubusercontent.com/Ar12agnik/Ar12agnik/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake">
 </p>
 
-- 🔭 I’m currently working on **AI/ML**
+---
 
-- 🌱 I’m currently learning **Django**
+### 🔥 About Me
+- 🔭 I’m currently working on **AI/ML** projects, integrating machine learning models into real-world applications.
+- 🌱 I’m currently learning **Django** for full-stack development.
+- 💼 I’m applying for roles like **Python Developer** and **Backend Developer**.
+- 👯 I’m looking to collaborate on **Python-based open-source projects**, especially in the fields of **Data Science** and **Web Development**.
+- 🤝 I’m looking for help with **advanced AI/ML techniques**.
+- 💬 Ask me about **Python, Django, AI/ML, and Data Science**.
+- 📫 Reach me at **ar12agnik@gmail.com**.
+- ⚡ Fun fact: **I believe in delivering 200% in everything I do, and I enjoy a challenge!**
 
-- 👯 I’m looking to collaborate on **Django**
+---
 
-- 🤝 I’m looking for help with **AI/ML**
+### 🏆 Major Achievements
+- **EYUVA Finalist**: My team’s innovative solution, **Smart Card**, was selected for the finals. It enhances the way documents are stored and accessed in emergency situations, providing easy access to critical documents with advanced security.
+- Developed **MiniLink**, a URL shortener, and **PassVolt**, a password manager that securely stores and generates passwords.
+- Created **Stock Dashboard**: A simple stock dashboard where users can track stock performance.
+- **Research Work**: Currently working on a **sound calibration project**.
+- Active contributor to the **Python** and **Django** community on GitHub and other platforms.
 
-- 💬 Ask me about **Python**
+---
 
-- 📫 How to reach me: **ar12agnik@gmail.com**
+### 🛠️ Projects I'm Working On:
+- **AI/ML Models**: Exploring new applications for artificial intelligence in different sectors.
+- **Hospital Bed & OPD Booking System**: Developing a software solution to book hospital beds, reserve spots in OPD queues, and provide doctors with easy access to medical histories.
+- **Full-stack Development with Django**: Building a media website using Django templates and Bootstrap for styling.
+- **GoLang Exploration**: Learning Go to expand my language expertise.
 
-- ⚡ Fun fact: **I think I'm funny 😄**
+---
+
+### 🧑‍💻 Skills & Expertise
+- **Programming Languages**: Python, Java, HTML/CSS, JavaScript, Go (learning)
+- **Frameworks**: Django, Flask, Bootstrap
+- **Databases**: MySQL, PostgreSQL, SQLite
+- **DevOps**: Docker, Git, Linux, WSL
+- **AI/ML Tools**: TensorFlow, Keras, OpenCV
+- **Cloud**: AWS (learning)
+- **Mobile Development**: Android Studio
 
 ---
 
@@ -54,8 +80,8 @@
   <a href="https://dev.to/ar12agnik" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/agnik-roy-3a4434258/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/19660189" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/agnikroy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-  <a href="https://instagram.com/agnik.roy12" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/agnikroy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40"/></a>
+  <a href="https://instagram.com/agnik.roy12" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
   <a href="https://www.codechef.com/users/ar12agnik" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
 </p>
 
@@ -91,28 +117,16 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
 </p>
+
+---
+
+### 📈 GitHub Activity Graph:
+[![Agnik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ar12agnik&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
