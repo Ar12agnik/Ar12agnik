@@ -143,9 +143,10 @@
 
 # 🎵 My Recommendation Playlist
 
-Check out my Spotify playlist! 🎶  
+Enjoy my favorite tracks on Spotify! 🎶  
 
-[![Spotify Playlist](https://spotify-recently-played-readme.vercel.app/api?user=0U4dwDeKF6Xszup08TQWfv)](https://open.spotify.com/playlist/0U4dwDeKF6Xszup08TQWfv?utm_source=generator)
+[![Spotify Playlist](https://developer.spotify.com/assets/branding-guidelines/icon3@2x.png)](https://open.spotify.com/playlist/0U4dwDeKF6Xszup08TQWfv?utm_source=generator&theme=0)
 
-Or [click here to listen!](https://open.spotify.com/playlist/0U4dwDeKF6Xszup08TQWfv?utm_source=generator)
+[▶️ Listen on Spotify](https://open.spotify.com/playlist/0U4dwDeKF6Xszup08TQWfv?utm_source=generator&theme=0)
+
 
