@@ -129,7 +129,18 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="80" height="80"/>
 </a>
+const playlistId = '0U4dwDeKF6Xszup08TQWfv';
 
+<iframe
+  title="Spotify Embed: Recommendation Playlist "
+  src={`https://open.spotify.com/embed/playlist/0U4dwDeKF6Xszup08TQWfv?utm_source=generator&theme=0`}
+  width="100%"
+  height="100%"
+  style={{ minHeight: '360px' }}
+  frameBorder="0"
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy"
+/>
 
 </p>
 
