@@ -141,15 +141,11 @@
 
 
 
-const playlistId = '0U4dwDeKF6Xszup08TQWfv';
+# 🎵 My Recommendation Playlist
 
-<iframe
-  title="Spotify Embed: Recommendation Playlist "
-  src={`https://open.spotify.com/embed/playlist/0U4dwDeKF6Xszup08TQWfv?utm_source=generator&theme=0`}
-  width="100%"
-  height="100%"
-  style={{ minHeight: '360px' }}
-  frameBorder="0"
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-  loading="lazy"
-/>
+Check out my Spotify playlist! 🎶  
+
+[![Spotify Playlist](https://spotify-recently-played-readme.vercel.app/api?user=0U4dwDeKF6Xszup08TQWfv)](https://open.spotify.com/playlist/0U4dwDeKF6Xszup08TQWfv?utm_source=generator)
+
+Or [click here to listen!](https://open.spotify.com/playlist/0U4dwDeKF6Xszup08TQWfv?utm_source=generator)
+
