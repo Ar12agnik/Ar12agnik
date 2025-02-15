@@ -129,6 +129,18 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="80" height="80"/>
 </a>
+
+
+
+
+---
+
+### 📈 GitHub Activity Graph:
+[![Agnik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AR12AGNIK)](https://github.com/ar12agnik)
+
+
+
+
 const playlistId = '0U4dwDeKF6Xszup08TQWfv';
 
 <iframe
@@ -141,13 +153,3 @@ const playlistId = '0U4dwDeKF6Xszup08TQWfv';
   allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
   loading="lazy"
 />
-
-</p>
-
-
-
----
-
-### 📈 GitHub Activity Graph:
-[![Agnik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AR12AGNIK)](https://github.com/ar12agnik)
-
