@@ -145,8 +145,18 @@
 
 Enjoy my favorite tracks on Spotify! 🎶  
 
-[![Spotify Playlist](https://developer.spotify.com/assets/branding-guidelines/icon3@2x.png)](https://open.spotify.com/playlist/0U4dwDeKF6Xszup08TQWfv?utm_source=generator&theme=0)
+<script>
+  const playlistId = '0U4dwDeKF6Xszup08TQWfv';
 
-[▶️ Listen on Spotify](https://open.spotify.com/playlist/0U4dwDeKF6Xszup08TQWfv?utm_source=generator&theme=0)
-
+<iframe
+  title="Spotify Embed: Recommendation Playlist "
+  src={`https://open.spotify.com/embed/playlist/0U4dwDeKF6Xszup08TQWfv?utm_source=generator&theme=0`}
+  width="100%"
+  height="100%"
+  style={{ minHeight: '360px' }}
+  frameBorder="0"
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy"
+/>
+</script>
 
