@@ -49,7 +49,7 @@
 ---
 
 ### 🏆 Major Achievements
-- **EYUVA Finalist**: My team’s innovative solution, **Smart Card**, was selected for the finals. It enhances the way documents are stored and accessed in emergency situations, providing easy access to critical documents with advanced security.
+
 - Developed **MiniLink**, a URL shortener, and **PassVolt**, a password manager that securely stores and generates passwords.
 - Created **Stock Dashboard**: A simple stock dashboard where users can track stock performance.
 - **Research Work**: Currently working on a **sound calibration project**.
