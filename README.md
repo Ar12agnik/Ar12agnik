@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  [![Agnik's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AR12AGNIK)](https://github.com/ar12agnik)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ar12agnik" alt="contrib graph">
 </p>
 
 ---
