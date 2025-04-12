@@ -1,162 +1,96 @@
-<h1 align="center">Hi there 👋, I'm Agnik Roy</h1>
-
-<h3 align="center">A Passionate Software Developer from India 🚀</h3>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ar12agnik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ar12agnik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+<h1 align="center">Hi there 👋, I’m Agnik Roy</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/agnik-roy-3a4434258/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ar12agnik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://twitter.com/agnikroy12"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.codechef.com/users/ar12agnik"><img src="https://img.shields.io/badge/CodeChef-000000?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"></a>
+</p>
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ar12agnik&title=Stars,Commits,Repositories&theme=gruvbox&row=1&column=3">
+    <img src="https://github-profile-trophy.vercel.app/?username=ar12agnik&title=Stars,Commits,Repositories&theme=gruvbox&row=1&column=3" alt="Trophies" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ar12agnik">
-    <img src="https://github-readme-stats.vercel.app/api?username=ar12agnik&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ar12agnik&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ar12agnik&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ar12agnik">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ar12agnik&theme=radical" alt="GitHub Streak">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ar12agnik&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ar12agnik">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ar12agnik&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages">
-  </a>
+  <img src="https://raw.githubusercontent.com/Ar12agnik/Ar12agnik/output/github-contribution-grid-snake-dark.svg" alt="Contribution Grid" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ar12agnik/Ar12agnik/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake">
+  [![Agnik's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AR12AGNIK)](https://github.com/ar12agnik)
 </p>
 
 ---
 
-### 🔥 About Me
-- 🔭 I’m currently working on **AI/ML** projects, integrating machine learning models into real-world applications.
-- 🌱 I’m currently learning **Django** for full-stack development.
-- 💼 I’m applying for roles like **Python Developer** and **Backend Developer**.
-- 👯 I’m looking to collaborate on **Python-based open-source projects**, especially in the fields of **Data Science** and **Web Development**.
-- 🤝 I’m looking for help with **advanced AI/ML techniques**.
-- 💬 Ask me about **Python, Django, AI/ML, and Data Science**.
-- 📫 Reach me at **ar12agnik@gmail.com**.
-- ⚡ Fun fact: **I believe in delivering 200% in everything I do, and I enjoy a challenge!**
+## 🌟 About Me
+
+- 🐍 Passionate about **Python**, **Django**, and building robust backends  
+- 💡 Exploring **Machine Learning** (LoRA, RAG pipelines) and **Golang**  
+- 🗄️ Strong database foundation: SQL Server Management Studio (SSMS), stored procedures, API–DB integration  
+- 🔧 Tooling & DevOps: Git/GitHub workflows, Docker (basic), CI/CD principles  
 
 ---
 
-### 🏆 Major Achievements
+## 🛠️ Skills & Technologies
 
-- Developed **MiniLink**, a URL shortener, and **PassVolt**, a password manager that securely stores and generates passwords.
-- Created **Stock Dashboard**: A simple stock dashboard where users can track stock performance.
-- **Research Work**: Currently working on a **sound calibration project**.
-- Active contributor to the **Python** and **Django** community on GitHub and other platforms.
-
----
-
-### 🛠️ Projects I'm Working On:
-- **AI/ML Models**: Exploring new applications for artificial intelligence in different sectors.
-- **Hospital Bed & OPD Booking System**: Developing a software solution to book hospital beds, reserve spots in OPD queues, and provide doctors with easy access to medical histories.
-- **Full-stack Development with Django**: Building a media website using Django templates and Bootstrap for styling.
-- **GoLang Exploration**: Learning Go to expand my language expertise.
-
----
-
-### 🧑‍💻 Skills & Expertise
-- **Programming Languages**: Python, Java, HTML/CSS, JavaScript, Go (learning)
-- **Frameworks**: Django, Flask, Bootstrap
-- **Databases**: MySQL, PostgreSQL, SQLite
-- **DevOps**: Docker, Git, Linux, WSL
-- **AI/ML Tools**: TensorFlow, Keras, OpenCV
-- **Cloud**: AWS (learning)
-- **Mobile Development**: Android Studio
+<table>
+  <tr>
+    <th align="center">Backend</th>
+    <th align="center">Frontend</th>
+    <th align="center">Databases</th>
+    <th align="center">DevOps & Tools</th>
+  </tr>
+  <tr>
+    <td align="center">🐍 Python<br>🌐 Django<br>⚡ Flask</td>
+    <td align="center">💻 JavaScript<br>🔗 jQuery<br>📡 AJAX</td>
+    <td align="center">🗄️ SQL Server<br>🔒 Stored Procs</td>
+    <td align="center">⚙️ Git<br>🐳 Docker<br>📝 Postman</td>
+  </tr>
+  <tr>
+    <td align="center">⚙️ .NET<br>💎 C#</td>
+    <td align="center">🌐 HTML5<br>🎨 CSS3<br>📦 Bootstrap</td>
+    <td align="center">📊 SSMS</td>
+    <td align="center">🔧 VS Code<br>🔗 REST APIs</td>
+  </tr>
+</table>
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://dev.to/ar12agnik" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/agnik-roy-3a4434258/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/19660189" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/agnikroy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40"/></a>
-  <a href="https://instagram.com/agnik.roy12" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
-  <a href="https://www.codechef.com/users/ar12agnik" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
-</p>
+## 🔭 Notable Projects
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/flask.svg" alt="flask" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="80" height="80"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="80" height="80"/>
-</a>
-
-
-
+| Project                                                                 | Description                                                                  |
+| ----------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [MiniLink](https://github.com/Ar12agnik/url-shortner)                       | Django URL shortener with auth, analytics, custom aliases.                  |
+| [Stock Dashboard](https://github.com/Ar12agnik/Stock-Dashboard)         | React dashboard for live stock data, portfolio tracking, performance charts. |
+| [PassVolt](https://github.com/Ar12agnik/PassVolt)                       | Secure password manager with AES encryption & Django REST API.              |
+| Inventory Management RAG System *(WIP)*                                 | RAG pipeline to query large/inconsistent schemas and generate SQL.          |
 
 ---
 
-### 📈 GitHub Activity Graph:
-[![Agnik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AR12AGNIK)](https://github.com/ar12agnik)
+## 🌱 Currently Learning
 
+- **Machine Learning**: Recommendation systems & LLM fine‑tuning under 12 GB RAM  
+- **Go (Golang)**: High‑performance microservices  
+- **.NET & C#**: Expanding backend capabilities  
 
+---
 
-
-# 🎵 My Recommendation Playlist
-
-Enjoy my favorite tracks on Spotify! 🎶  
-
-<script>
-  const playlistId = '0U4dwDeKF6Xszup08TQWfv';
-
-<iframe
-  title="Spotify Embed: Recommendation Playlist "
-  src={`https://open.spotify.com/embed/playlist/0U4dwDeKF6Xszup08TQWfv?utm_source=generator&theme=0`}
-  width="100%"
-  height="100%"
-  style={{ minHeight: '360px' }}
-  frameBorder="0"
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-  loading="lazy"
-/>
-</script>
-
+> “The only way to do great work is to love what you do.” – Steve Jobs
