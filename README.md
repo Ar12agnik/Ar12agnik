@@ -8,6 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=ar12agnik&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/ar12agnik?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/ar12agnik?label=Stars&style=for-the-badge&color=yellow" alt="Stars"/>
+  <img src="https://img.shields.io/github/last-commit/ar12agnik/ar12agnik?label=Last+Update&style=for-the-badge&color=green" alt="Last Update"/>
 </div>
 
 ---
@@ -26,15 +27,16 @@ class Agnik:
         self.name = "Agnik Roy"
         self.role = "Backend Developer"
         self.location = "India 🇮🇳"
-        self.languages = ["Python", "Go", "C#", "JavaScript"]
+        self.languages = ["Python", "Go", "C#", "JavaScript", "SQL"]
         self.current_focus = ["MLOps", "System Architecture", "RAG Pipelines"]
         self.passion = "Building scalable systems that matter"
     
     def daily_routine(self):
         return [
-            "☕ Coffee",
-            "💻 Code", 
-            "🧠 Learn",
+            "☕ Coffee with code",
+            "💻 Architect solutions", 
+            "🧠 Learn new tech",
+            "🚀 Build & deploy",
             "🔄 Repeat"
         ]
     
@@ -43,10 +45,11 @@ class Agnik:
 ```
 
 ### 🎯 What I Do
-- 🏗️ **Architecture**: Designing scalable backend systems
+- 🏗️ **Architecture**: Designing scalable backend systems with microservices
 - 🤖 **AI/ML**: Fine-tuning LLMs and building RAG systems  
-- 🔧 **DevOps**: Docker, CI/CD, and cloud deployments
-- 📊 **Data**: From databases to data pipelines
+- 🔧 **DevOps**: Docker, CI/CD, and cloud deployments (AWS/GCP)
+- 📊 **Data Engineering**: Building efficient data pipelines
+- 🎮 **Game Dev**: Creating immersive experiences with Unity
 
     </td>
     <td width="40%">
@@ -59,6 +62,17 @@ class Agnik:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ar12agnik@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/agnikroy12)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ar12agnik)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ar12agnik/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/ar12agnik)
+
+</div>
+
+### 🎮 Currently Playing
+<div align="center">
+  
+![Counter-Strike](https://img.shields.io/badge/Counter--Strike-000000?style=flat-square&logo=counter-strike&logoColor=white)
+![Valorant](https://img.shields.io/badge/Valorant-FA4454?style=flat-square&logo=valorant&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=flat-square&logo=minecraft&logoColor=white)
 
 </div>
     </td>
@@ -78,8 +92,8 @@ class Agnik:
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
 
 ### 🌐 Frameworks & Libraries
@@ -90,6 +104,7 @@ class Agnik:
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
 
 ### 🗄️ Databases
@@ -97,34 +112,44 @@ class Agnik:
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
 </p>
 
-### 🛠️ Tools & Platforms
+### ☁️ Cloud & DevOps
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
 </p>
 
 ### 🤖 AI/ML Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
 
 </div>
 
 ---
-
-
 
 ## 📊 GitHub Analytics
 
@@ -163,6 +188,22 @@ class Agnik:
 
 ---
 
+## 🌟 Featured Projects
+
+<div align="center">
+
+### 🏆 Highlighted Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ar12agnik&repo=silk_road-college-project&theme=radical)](https://github.com/ar12agnik/silk_road-college-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ar12agnik&repo=url-shortner&theme=radical)](https://github.com/ar12agnik/url-shortner)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ar12agnik&repo=passvolt&theme=radical)](https://github.com/ar12agnik/passvolt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ar12agnik&repo=Project-P3-dashboard&theme=radical)](https://github.com/ar12agnik/Project-P3-dashboard)
+
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 <table>
@@ -170,11 +211,23 @@ class Agnik:
     <td width="50%">
       
 ### 🚀 **2024 Goals**
-- [ ] 🤖 Master MLOps & LLM Fine-tuning
-- [ ] ☁️ Dive deeper into Cloud Architecture
+- [x] 🤖 Build production RAG system
+- [ ] ☁️ AWS Solutions Architect Certification
 - [ ] 🔧 Contribute to Open Source Projects
 - [ ] 📝 Start Technical Blogging
-- [ ] 🏗️ Build Production-Ready Microservices
+- [ ] 🏗️ Build Microservices Architecture
+- [ ] 🦀 Learn Rust for systems programming
+
+### 📊 **Metrics Tracking**
+```python
+goals_2024 = {
+    "certifications": ["AWS SA", "Kubernetes"],
+    "projects": 5,
+    "open_source_contributions": 10,
+    "blogs_published": 12,
+    "languages_learned": ["Rust", "Terraform"]
+}
+```
 
     </td>
     <td width="50%">
@@ -185,6 +238,12 @@ class Agnik:
 - 🔄 **Kubernetes** - Container Orchestration
 - 📊 **Apache Kafka** - Event Streaming
 - 🧠 **PyTorch** - Deep Learning
+- 🏗️ **Terraform** - Infrastructure as Code
+
+### 📖 **Recent Reads**
+- "Designing Data-Intensive Applications" by Martin Kleppmann
+- "Clean Architecture" by Robert C. Martin
+- "The Pragmatic Programmer" by Andrew Hunt
 
     </td>
   </tr>
@@ -192,21 +251,47 @@ class Agnik:
 
 ---
 
-## 💡 Fun Facts
+## 💡 Fun Facts & Dev Insights
 
 <div align="center">
 
 ```javascript
 const agnikFacts = {
-    coffee: "☕ 4-5 cups daily (fuel for coding)",
-    debugging: "🐛 I talk to rubber ducks",
-    music: "🎵 Lo-fi beats while coding",
+    coffeeConsumption: "☕ 4-5 cups daily (fuel for coding)",
+    debuggingTechnique: "🐛 I talk to rubber ducks",
+    codingMusic: "🎵 Lo-fi beats while coding",
     superpower: "🔍 Finding bugs at 3 AM",
-    motto: "💡 Code today, automate tomorrow!"
+    motto: "💡 Code today, automate tomorrow!",
+    favoriteEditor: "VS Code with Dracula theme",
+    terminal: "Zsh with Powerlevel10k",
+    setup: "Dual monitor + Mechanical keyboard"
 };
 ```
 
+### 🎵 Currently Coding To
+[![Spotify](https://spotify-readme.vercel.app/api/spotify?background_color=0d1117&border_color=7c3aed)](https://open.spotify.com/user/ar12agnik)
+
 </div>
+
+---
+
+## 📆 Development Timeline
+
+```mermaid
+timeline
+    title My Dev Journey
+    section 2022
+        Learned Python & Django
+        Built first web app
+    section 2023
+        Explored AI/ML
+        : Worked on LLM projects
+        Game Development
+    section 2024
+        Backend Architecture
+        Cloud & DevOps
+        Open Source Contributions
+```
 
 ---
 
@@ -215,7 +300,7 @@ const agnikFacts = {
 <div align="center">
 
 ### 💬 **Always Open to Discussing:**
-🚀 **Backend Architecture** • 🤖 **AI/ML Projects** • 🔧 **System Design** • 📊 **Data Engineering**
+🚀 **Backend Architecture** • 🤖 **AI/ML Projects** • 🔧 **System Design** • 📊 **Data Engineering** • 🎮 **Game Development**
 
 <br>
 
@@ -225,6 +310,22 @@ const agnikFacts = {
 
 [![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ar12agnik@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agnik-roy-3a4434258/)
+[![Calendly](https://img.shields.io/badge/Schedule%20Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/ar12agnik)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡️ Quick Stats
+
+| | |
+| :--- | :--- |
+| **Total Contributions** | ![](https://img.shields.io/github/all-commit-counts/ar12agnik?style=flat-square&color=blue) |
+| **Lines of Code** | ![](https://img.shields.io/badge/Lines%20of%20Code-100K%2B-brightgreen?style=flat-square) |
+| **Projects Completed** | ![](https://img.shields.io/badge/Projects-20%2B-orange?style=flat-square) |
+| **Coffee Consumed** | ![](https://img.shields.io/badge/Coffee-1000%2B%20cups-brown?style=flat-square) |
 
 </div>
 
@@ -241,3 +342,9 @@ const agnikFacts = {
 <p align="center">
   <img src="https://hit.yhype.me/github/profile?user_id=84107825" alt="Profile Hits"/>
 </p>
+
+<div align="center">
+  
+Made with ❤️ and ☕ by Agnik Roy
+
+</div>
